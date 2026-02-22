@@ -1,11 +1,9 @@
-## Hi there 👋
+DowlaInGreen
+Building simple automation tools for small businesses — hairdressers, plumbers, repair shops, gardeners.
 
-### Vlado Stipan
-DeFi Analyst | Economic Researcher | Automation Specialist**
+Not for enterprises. Not for scale-ups.
+For the people who are good at their trade but drowning in admin.
 
-I build tools to analyze on-chain liquidity, automate governance monitoring, and model token incentives.
+🔧 Currently: Local AI server (Ollama + OpenCrawl) — affordable automation without cloud dependency
 
-- 🔭 **Current Research:** Market inefficiencies in L2 liquidity and cross-chain spreads.
-- 🛠 **Stack:** Python (Pandas), Dune Analytics (SQL), Zapier Automation.
-- 💬 **Ask me about:** Automating governance workflows and MEV impact analysis.
-<
+📍 Croatia | VSS Digital
